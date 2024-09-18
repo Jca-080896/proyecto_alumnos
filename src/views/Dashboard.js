@@ -21,6 +21,8 @@ import hombre16 from "reyna.jpg"
 import hombre17 from "jessicontreras.jpg"
 
 
+
+
 // reactstrap components
 import {
   Card,
